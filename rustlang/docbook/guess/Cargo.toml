@@ -1,0 +1,9 @@
+[package]
+
+name = "hello_world"
+version = "0.0.1"
+authors = [ "Pradeep Chhetri<pradeep.chhetri89@gmail.com>" ]
+
+[dependencies]
+
+rand = "0.3.15"
